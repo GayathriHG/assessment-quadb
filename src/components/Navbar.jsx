@@ -3,8 +3,8 @@ const Navbar = () => {
     <nav className="text-white p-4 flex items-center justify-between">
       <h2>
         ToDo-List
-        <a
-          href="https://github.com/GayathriHG/QuadB-assessment"
+        {/* <a
+          href=""
           target="blank"
           className="text-white"
         >
@@ -21,7 +21,7 @@ const Navbar = () => {
               />
             </svg>
           </span>
-        </a>
+        </a> */}
       </h2>
     </nav>
   );
