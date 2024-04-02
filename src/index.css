@@ -1,0 +1,25 @@
+body {
+  background-color: #c5baaf;
+}
+
+nav {
+  background-color: #424b54;
+}
+footer {
+  background-color: #424b54;
+  /* position:fixed;
+  height: 100px;
+  width: 100px;
+  bottom:fixed */
+}
+button {
+  background-color: #424b54;
+  color: white;
+}
+ul {
+  background-color: antiquewhite;
+}
+form {
+  background-color: antiquewhite;
+  padding: 8;
+}
